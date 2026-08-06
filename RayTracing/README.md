@@ -4,6 +4,8 @@ A small C++ ray tracer: a CPU path tracer that renders a scene of randomly
 scattered spheres (diffuse, metal, and glass materials) with a
 depth-of-field camera, and writes the result as a PPM image.
 
+![Final render](render.png)
+
 ## What's in here
 
 | File | What it does |
