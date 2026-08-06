@@ -1,10 +1,8 @@
 # Ray Tracing
 
-A small C++ ray tracer following Peter Shirley's *[Ray Tracing in One
-Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)*
-series: a CPU path tracer that renders a scene of randomly scattered
-spheres (diffuse, metal, and glass materials) with a depth-of-field
-camera, and writes the result as a PPM image.
+A small C++ ray tracer: a CPU path tracer that renders a scene of randomly
+scattered spheres (diffuse, metal, and glass materials) with a
+depth-of-field camera, and writes the result as a PPM image.
 
 ## What's in here
 
